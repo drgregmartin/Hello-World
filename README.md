@@ -1,2 +1,7 @@
 # Hello-World
-Just another repository 
+
+Hello Humans, 
+
+Just getting used to GitHub. 
+
+Greg 
